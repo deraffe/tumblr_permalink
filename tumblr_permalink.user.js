@@ -2,9 +2,10 @@
 // @name        Tumblr Permalink Adder
 // @namespace   https://github.com/deraffe
 // @match       https://sarahcandersen.com/*
-// @version     0.1
+// @version     0.2
 // @author      deraffe
 // @description Adds a permalink to tumblr blogs that hide it by default. Written for Sarah's Scribbles.
+// @downloadURL https://raw.githack.com/deraffe/tumblr_permalink/master/tumblr_permalink.user.js
 // ==/UserScript==
 
 function q(s) {
